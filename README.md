@@ -10,4 +10,4 @@
 <hr>
 
 <p>Do u wanna see my site?</p>
-<p>Here is the <a href="https://rhoanbarioni.github.io/Clock/" target="_blank">Link</a></p>
+<p>Here is the <a href="https://rhoanbarioni.github.io/Clock.js/" target="_blank">Link</a></p>
